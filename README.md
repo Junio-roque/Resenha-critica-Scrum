@@ -12,6 +12,8 @@
 <div align="center">
    <img src="https://user-images.githubusercontent.com/57921033/221868881-99fd9814-3686-440c-9590-77d8c77cd236.jpg" />
 </div>
-Referências: /
+Referências: 
 
 https://www.heflo.com/pt-br/agil/tudo-sobre-scrum/
+https://www.agile42.com/en/success-stories/success-story-sony
+https://web.dio.me/track/17a862ce-8109-4818-a52a-7b981e1750e2
