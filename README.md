@@ -24,7 +24,7 @@ Referências:
 </ul>
 
 
-<div align="center">
+<div>
   <img src="https://user-images.githubusercontent.com/57921033/221881597-15c9d445-46b8-4ca3-82ca-1de129f20092.png" width="120px"/>
 </div>
-
+Link:  https://dio.me/sign-up?ref=YW771J5GRQ
