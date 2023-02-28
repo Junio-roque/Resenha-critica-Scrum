@@ -7,3 +7,6 @@ Sucesso da Sony
 ### Uma foma nova de abordagem, planejamento, revisar e retrospecto deixaram muito confuso a equipe da Sony, ulizando metodogia agíl para adaptar mudanças, ter uma tranparência no processo e aprender com cada erro e acerto dando continuidade no processo de desenvolvimento para uma entrega rapida de valor.
 ### Muito diferente do modelo convèncional que todos estavam acostumado a realizar o projeto que só entregava no final, gerando um certo desconforto para mundaças.
 
+Referências: 
+
+https://www.heflo.com/pt-br/agil/tudo-sobre-scrum/
