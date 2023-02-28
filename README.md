@@ -5,7 +5,7 @@
 ### A criação e implantação de um projeto software em uma arquitetura GPU com qualidade avançada e altamente efeciênte para placas gráficas.
 ### Consultoria Agile42, ajudou a gerenciar o desenvolvimento do projeto, com o framework Scrum, dando um apoio suporte e treinamento para ter uma estrutura gerenciável para o processo ser rápido, prazeroso e convencendo que uma mudança tinha que ser tranquila
 
-### Uma forma nova de abordagem, planejamento, revisar e retrospecto deixaram muito confuso a equipe da Sony, utlizando metodogia ágil para adaptar mudanças, ter uma transparência no processo e aprender com cada erro e acerto dando continuidade no processo de desenvolvimento para uma entrega rapida de valor.
+### Uma forma nova de abordagem, planejamento, revisar e retrospecto deixaram muito confuso a equipe da Sony, utilizando metodogia ágil para adaptar mudanças, ter uma transparência no processo e aprender com cada erro e acerto dando continuidade no processo de desenvolvimento para uma entrega rapida de valo
 ### Muito diferente do modelo convèncional que todos estavam acostumado a realizar o projeto que só entregava no final, gerando um certo desconforto para mudanças.
 
 
