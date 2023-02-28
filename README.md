@@ -1,5 +1,6 @@
-# Resenha-critica-Scrum
-Sucesso da Sony
+<div align="center">
+ <h1>Uma resenha critica sobre Sucesso da Sony</h1>
+</div>
 
 ### A criação e implantação de um projeto software em uma arquitetura GPU com qualidade avançada e altamente efeciênte para placas gráficas.
 ### Consultoria Agile42, ajudou a gerenciar o desenvolvimento do projeto, com o framework Scrum, dando um apoio suporte e treinamento para ter uma estrutura gerenciavel para o processo ser rapido, prazeroso e convencendo que uma mudança tinha que ser tranquila.
@@ -9,9 +10,8 @@ Sucesso da Sony
 
 
 <div align="center">
-![tudo-sobre-scrum-02](https://user-images.githubusercontent.com/57921033/221866283-f24c6de5-6f07-47d3-9978-f1f165bad53d.png)
-   <img src="https://user-images.githubusercontent.com/57921033/221866283-f24c6de5-6f07-47d3-9978-f1f165bad53d.png" />
+   <img src="https://user-images.githubusercontent.com/57921033/221868881-99fd9814-3686-440c-9590-77d8c77cd236.jpg" />
 </div>
-Referências: 
+Referências: /
 
 https://www.heflo.com/pt-br/agil/tudo-sobre-scrum/
