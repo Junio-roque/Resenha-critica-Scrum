@@ -9,17 +9,22 @@
 ### Muito diferente do modelo convèncional que todos estavam acostumado a realizar o projeto que só entregava no final, gerando um certo desconforto para mundaças.
 
 
+### Modelo do Scrum Master:
 <div align="center">
    <img src="https://user-images.githubusercontent.com/57921033/221868881-99fd9814-3686-440c-9590-77d8c77cd236.jpg" />
 </div>
+
+### Os resultados foram supreendentes, com a metodologiaa ágieis dando uma cara nova e introduzindo um coportamento de princípios básicos para superar cada obstáculos, com os erros e acertos sendo ajustado gerando um comprometimento das equipes que são flexível ao contexto de entregar o valor do produto e recebendo o feedeback para melhorar a eficaz.
+
 Referências: 
+<ul>
+<li>https://www.heflo.com/pt-br/agil/tudo-sobre-scrum </li>
+<li>https://www.agile42.com/en/success-stories/success-story-sony </li>
+<li>https://web.dio.me/track/17a862ce-8109-4818-a52a-7b981e1750e2 </li>
+</ul>
 
-https://www.heflo.com/pt-br/agil/tudo-sobre-scrum/
-https://www.agile42.com/en/success-stories/success-story-sony
-https://web.dio.me/track/17a862ce-8109-4818-a52a-7b981e1750e2
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/57921033/221881597-15c9d445-46b8-4ca3-82ca-1de129f20092.png" width="120px"/>
+</div>
 
-
- 
-![tudo-sobre-scrum-02](https://user-images.githubusercontent.com/57921033/221868881-99fd9814-3686-440c-9590-77d8c77cd236.jpg)
-<h3>Curso da Dio</h3
